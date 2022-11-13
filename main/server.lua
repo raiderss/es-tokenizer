@@ -68,6 +68,8 @@
                                 if data.type == 'cash' then -- EXAMPLE
                                     -- Player.addMoney(source, data.amount)
                                 end
+      
+                                -- Here you can enter your code to work
 
                                 print("==> CODE WORKED VERIFICATION OK")
 
