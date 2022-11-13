@@ -1,6 +1,9 @@
 # es-tokenizer
 Fivem Trigger Tokenizer
 
+For more useful content:
+https://discord.gg/EkwWvFS
+
 
 Simple token protection to protect your triggers from cheaters
 
