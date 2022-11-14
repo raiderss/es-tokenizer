@@ -1,6 +1,9 @@
 # es-tokenizer
 Fivem Trigger Tokenizer
 
+
+Add security tokens to FiveM server events that are accessible from the client in order to prevent against Lua injections (and similar cheats).
+
 For more useful content:
 https://discord.gg/EkwWvFS
 
